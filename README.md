@@ -31,3 +31,4 @@ e08_https_certificado.py
 
 Verifica el estado de una aplicación web mediante HTTPS midiendo su tiempo de respuesta, código de estado HTTP y analizando de forma segura la validez y los días restantes hasta el vencimiento del certificado TLS/SSL del servidor.
 
+Requisitos python 3.14
